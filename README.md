@@ -7,7 +7,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 - Contact of the project owner: per.morvan.bzh29@gmail.com.
 
-## II. A breton list of vulgar words, could be used for black-listing words.*
+## II. A breton list of vulgar words, could be used for black-listing words.
 
 Created with the help of theses articles and websites:
 
